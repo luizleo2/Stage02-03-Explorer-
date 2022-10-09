@@ -1,4 +1,4 @@
-luizleo2.github.io/Stage02-03-Explorer-/
+
 
 # Stage02-03-Explorer-
 Projeto 3 Stage 2 
